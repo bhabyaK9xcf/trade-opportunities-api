@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+python-jose
+passlib
+python-dotenv
+slowapi
+google-generativeai
+beautifulsoup4
